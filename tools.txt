@@ -1,0 +1,8 @@
+For this assignment, we used 3 main tools to complete it:
+  -Amazon AWS
+  -WordPress
+  -Amazon Polly
+  
+ Amazon AWS is the cloud computing platform that gave us access to the opther tools to complete this assigment. It hosts multiple tool that enable building projects faster and easier.
+ WordPress is a software that allows the hosting a website easier.
+ Amazon Polly is the text-to-speech software we used to vocalize the information on the webpage.
